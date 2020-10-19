@@ -1,13 +1,13 @@
 Theme Name: saybers
 Theme URI: http://underscores.me/
-Author: Umer Farooq
-Author URI: https://stackoverflow.com/users/story/11566896
+Author: Apoorv Saxena
+Author URI: http://surviton.ezyro.com/
 Description: Description
 Version: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 Text Domain: saybers
-Tags: portfolio, blog, grid-layout, one-column, custom-colors, footer-widgets, full-width-template, theme-options,  custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+Tags: About Me, My Achievements, My Hobbies, My Interests.
 
 Initial release
 

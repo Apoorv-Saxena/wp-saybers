@@ -186,7 +186,7 @@ $service_description  = get_field('service_description');
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="single-count count-four">
                         <i class="<?php echo get_theme_mod( 'four_stat_icon','icon icon-trophy' ) ?>"></i>
-                        <h2 class="count"><?php echo get_theme_mod( 'four_stat_num','150' ) ?></h2>
+                        <h1 class="count"><?php echo get_theme_mod( 'four_stat_num','150' ) ?></h1>
                         <!--edit here-->
                         <p><?php echo get_theme_mod( 'four_stat_dec','Business Awards Won' ) ?></p>
                     </div>
@@ -525,9 +525,9 @@ $service_description  = get_field('service_description');
                     <div class="item border-t cu-p">
                         <div class="inner-box">
                             <p><?php the_field('clients_testimonial'); ?></p>
-                            <h5><strong><?php the_field('client_name'); ?></strong></h5>
+                            <h4><strong><?php the_field('client_name'); ?></strong></h4>
                             <!--change reviewer name-->
-                            <h6>Customer <?php echo $u; ?></h6>
+                            <h5>Customer <?php echo $u; ?></h5>
                         </div>
                     </div>
                     <?php $u++; ?>
@@ -597,7 +597,7 @@ $service_description  = get_field('service_description');
 
             <div class="col-xs-12 col-sm-12 col-md-5 col-md-offset-1">
                 <div class="opening-hours-wrap mt-30">
-                    <h3>Opening Hours</h3>
+                    <h2>Opening Hours</h2>
                     <ul class="opening-hours">
                         <li>Monday<span class="pull-right">8.00 - 19.00</span></li>
                         <li>Tuesday <span class="pull-right">8.00 - 19.00</span></li>
